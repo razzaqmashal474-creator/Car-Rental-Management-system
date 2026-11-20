@@ -36,4 +36,4 @@ Developer
 
 Mashal Razzaq
 BS Information Technology Student
-NUML University, Faisalabad
+NUML University
